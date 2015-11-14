@@ -315,14 +315,7 @@ a:focus {
     transition: all .3s ease-in-out;
 }
 
-.btn-default {
-   
 
-    border: 4px solid black;
-    border-style: outset;
-    color: #000;
-    
-}
 
 ul.banner-social-buttons {
     margin-top: 0;
