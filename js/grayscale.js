@@ -16,8 +16,6 @@ $(window).scroll(function() {
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
 	$('#save-route').click(function() {
-	alert("FUCK");
-
 		$.post('/traffic/set_route', {
 			addr1_from: "14300 Newport Ave",
 			add2_from: "#81",
